@@ -1,4 +1,3 @@
-# Here is another update by Erwin Liem (again!)
 # Here is a new update by Erwin Liem
 # Shipping Cost Calculator
 
